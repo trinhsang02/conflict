@@ -3,3 +3,4 @@ them dong nua
 thiet la met 
 conflict merge 
 kho chiu qua 
+merge branch thoi
